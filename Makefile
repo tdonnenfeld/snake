@@ -13,4 +13,4 @@ matrix.o:
 	g++ -c matrix.cpp matrix.h common.h
 
 clean:
-	rm *.o snake
+	rm *.o snake *.gch
